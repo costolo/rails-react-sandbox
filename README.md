@@ -1,0 +1,1 @@
+This is a new Rails application that has been set up to work out of the box with React.js, following Oliver Lance's Isomorphic React application tutorial (https://medium.com/technically-speaking/isomorphic-reactjs-app-with-ruby-on-rails-part-1-server-side-rendering-8438bbb1ea1c)
